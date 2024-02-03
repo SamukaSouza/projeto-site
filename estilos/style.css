@@ -6,7 +6,7 @@ font-size: 16px;
 }
 
 body {
-    background-color: aliceblue;
+    background-color: rgb(21, 114, 196);
 
 }
 
@@ -17,4 +17,22 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px black ;
 
+}
+
+
+h1 {
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
 }
